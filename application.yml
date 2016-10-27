@@ -6,3 +6,7 @@ this:
     some:
       common:
         prop: widoczne wszędzie ! dla każdej aplikacji, niezależnie od nazwy !
+
+graphite:
+  host: localhost
+  port: 2003
