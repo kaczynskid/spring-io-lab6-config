@@ -1,2 +1,8 @@
 info:
   component: ${spring.application.name}
+
+this:
+  is:
+    some:
+      common:
+        prop: widoczne wszędzie ! dla każdej aplikacji, niezależnie od nazwy !

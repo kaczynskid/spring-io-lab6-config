@@ -1,0 +1,5 @@
+some:
+  dev:
+    env:
+      specific:
+        prop: Tylko na dev!
